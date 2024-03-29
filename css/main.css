@@ -1,0 +1,19 @@
+#esportes {
+    background-color: rgba(11, 192, 4, 0.2);
+}
+
+#economia {
+    background-color: rgba(241, 206, 7, 0.3);
+}
+
+#tecnologia{
+    background-color: rgba(1, 5, 187, 0.2);
+}
+
+#entreterimento{
+    background-color: rgba(3, 182, 182, 0.2);
+}
+
+img {
+    max-width: 650px; max-height: 400px
+}
